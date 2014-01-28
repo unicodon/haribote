@@ -1,0 +1,12 @@
+[team color]
+red
+[team number]
+70
+[robot id]
+4
+[whitebalance]
+indoor
+[shutterspeed]
+mid
+[cameragain]
+high

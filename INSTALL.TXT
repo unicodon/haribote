@@ -1,0 +1,5 @@
+1. Build
+  "src" directory contains a project file for Visual Studio 2003.
+ Open the file and build.
+  Exe. file will be installed in "exeset" directory. Run it.
+ You can also execute it on Visual Studio Debugger.

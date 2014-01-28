@@ -1,0 +1,8 @@
+#ifndef _Types_h_DEFINED
+#define _Types_h_DEFINED
+
+typedef unsigned char   byte;       /* must be 8-bit quantity */
+typedef unsigned short  word;       /* must be 16-bit quantity */
+typedef unsigned long   longword;   /* must be 32-bit quantity */
+
+#endif  /* _Types_h_DEFINED */
